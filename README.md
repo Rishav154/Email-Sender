@@ -24,7 +24,7 @@ Step 8 - Enter the name of your choice (for e.g. "python" )
 Step 9 - Then click on "Generate"
 Step 10 - Copy your app password and click "Done"
 
-Your pass word is succesfully generated!!!
+Your password is succesfully generated!!!
 Now you can use it to send emails.
 
 
