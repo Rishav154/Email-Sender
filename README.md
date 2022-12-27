@@ -14,16 +14,26 @@ For Example : <#put your password here> delete this part and enter your password
 Steps to generate your own password :
 
 Step 1 - Open your brower and visit <myaccount.google.com> (login to your account if asked)
+
 Step 2 - Go to "Security"
+
 Step 3 - Make sure 2-Step Verification in on (if not then enable it)
+
 Step 4 - Click on "App passwords"
+
 Step 5 - Enter your password to complete the verification
+
 Step 6 - Click on "Select app"
+
 Step 7 - From the drop down menu select "Other (Custom name)
+
 Step 8 - Enter the name of your choice (for e.g. "python" )
+
 Step 9 - Then click on "Generate"
+  
 Step 10 - Copy your app password and click "Done"
 
+  
 Your password is succesfully generated!!!
 Now you can use it to send emails.
 
