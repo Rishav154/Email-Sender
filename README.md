@@ -38,6 +38,6 @@ Your password is succesfully generated!!!
 Now you can use it to send emails.
 
 
-For Further queries contact : lichijuice.protonmail.com
+For Further queries contact : lichijuice@protonmail.com/rishav15045@gmail.com
 
 -----------------------------------------This Documentation is Subjected to change with further updates----------------------------------
